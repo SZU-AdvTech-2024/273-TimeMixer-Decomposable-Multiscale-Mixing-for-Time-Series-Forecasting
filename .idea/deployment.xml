@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="191_TimeMixer" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="112_TimeMixer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home1/hwj/TimeMixer-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="191_TimeMixer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home4/hwj/project/TimeMixer-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="191_TimeSeriesMain">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home4/hwj/project/Time-Series-Library-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hwj@172.31.224.191:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home4/hwj/project/TimeMixer-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
